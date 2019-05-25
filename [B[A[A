@@ -1,0 +1,36 @@
+* [33mcommit 87a5f16[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;33mtag: v0.2[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/desarrollo[m[33m, [m[1;32mdesarrollo[m[33m)[m
+[31m|[m Author: unknown <pablo.cassal2000@gmail.com>
+[31m|[m Date:   Fri May 24 16:51:38 2019 +0200
+[31m|[m 
+[31m|[m     commit para la rama desarrollo
+[31m|[m 
+* [33mcommit 217e787[m
+[31m|[m Author: unknown <pablo.cassal2000@gmail.com>
+[31m|[m Date:   Fri May 24 16:46:15 2019 +0200
+[31m|[m 
+[31m|[m     Incluido holamundo.cpp
+[31m|[m   
+*   [33mcommit 545ce5d[m
+[32m|[m[33m\[m  Merge: e27f6c9 16e776a
+[32m|[m [33m|[m Author: unknown <pablo.cassal2000@gmail.com>
+[32m|[m [33m|[m Date:   Fri May 24 16:43:54 2019 +0200
+[32m|[m [33m|[m 
+[32m|[m [33m|[m     Merge branch 'master' of https://github.com/Pablocassal/si3trimestre
+[32m|[m [33m|[m 
+[32m|[m * [33mcommit 16e776a[m
+[32m|[m [33m|[m Author: Personal_Castro <44866375+Pablocassal@users.noreply.github.com>
+[32m|[m [33m|[m Date:   Fri May 24 16:27:42 2019 +0200
+[32m|[m [33m|[m 
+[32m|[m [33m|[m     Update README.md
+[32m|[m [33m|[m 
+* [33m|[m [33mcommit e27f6c9[m
+[33m|[m[33m/[m  Author: unknown <pablo.cassal2000@gmail.com>
+[33m|[m   Date:   Fri May 24 16:40:55 2019 +0200
+[33m|[m   
+[33m|[m       .gitignore Bloquea el archivo Chorradas
+[33m|[m 
+* [33mcommit c9943cb[m[33m ([m[1;33mtag: v0.1[m[33m)[m
+  Author: unknown <pablo.cassal2000@gmail.com>
+  Date:   Fri May 24 16:24:09 2019 +0200
+  
+      Commit inicial
